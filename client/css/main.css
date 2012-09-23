@@ -1,0 +1,15 @@
+/*==============================system==============================*/
+.disabled{display: none}
+.hidden{visibility:hidden}
+body{
+   margin: 0px;
+   overflow: hidden;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   cursor: default;
+}
+textarea{outline: none}
+/*==============================panel==============================*/
+
+
+
