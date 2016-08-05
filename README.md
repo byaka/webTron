@@ -1,4 +1,4 @@
-#**Simple realisation of oldschool game Thron, using sockjs.**
+#**Simple realisation of oldschool game Tron, using sockjs.**
 
 ##Requirements for client
 1. functionsex library [from](http://github.com/byaka/functionsex)
